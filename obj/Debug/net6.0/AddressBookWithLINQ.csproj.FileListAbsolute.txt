@@ -1,0 +1,15 @@
+D:\.net\AddressBookWithLINQ\bin\Debug\net6.0\AddressBookWithLINQ.exe
+D:\.net\AddressBookWithLINQ\bin\Debug\net6.0\AddressBookWithLINQ.deps.json
+D:\.net\AddressBookWithLINQ\bin\Debug\net6.0\AddressBookWithLINQ.runtimeconfig.json
+D:\.net\AddressBookWithLINQ\bin\Debug\net6.0\AddressBookWithLINQ.dll
+D:\.net\AddressBookWithLINQ\bin\Debug\net6.0\AddressBookWithLINQ.pdb
+D:\.net\AddressBookWithLINQ\obj\Debug\net6.0\AddressBookWithLINQ.csproj.AssemblyReference.cache
+D:\.net\AddressBookWithLINQ\obj\Debug\net6.0\AddressBookWithLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\AddressBookWithLINQ\obj\Debug\net6.0\AddressBookWithLINQ.AssemblyInfoInputs.cache
+D:\.net\AddressBookWithLINQ\obj\Debug\net6.0\AddressBookWithLINQ.AssemblyInfo.cs
+D:\.net\AddressBookWithLINQ\obj\Debug\net6.0\AddressBookWithLINQ.csproj.CoreCompileInputs.cache
+D:\.net\AddressBookWithLINQ\obj\Debug\net6.0\AddressBookWithLINQ.dll
+D:\.net\AddressBookWithLINQ\obj\Debug\net6.0\refint\AddressBookWithLINQ.dll
+D:\.net\AddressBookWithLINQ\obj\Debug\net6.0\AddressBookWithLINQ.pdb
+D:\.net\AddressBookWithLINQ\obj\Debug\net6.0\AddressBookWithLINQ.genruntimeconfig.cache
+D:\.net\AddressBookWithLINQ\obj\Debug\net6.0\ref\AddressBookWithLINQ.dll
